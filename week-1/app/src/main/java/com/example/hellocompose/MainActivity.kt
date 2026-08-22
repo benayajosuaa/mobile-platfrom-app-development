@@ -79,6 +79,13 @@ fun ProfileScreen() {
     }
 }
 
+
+/*
+ * Preview untuk Dark Mode.
+ *
+ * UI_MODE_NIGHT_YES memaksa preview menggunakan
+ * konfigurasi Dark Mode.
+ */
 @Preview(name = "Light Mode", showBackground = true)
 @Composable
 fun ProfileLightPreview() {
