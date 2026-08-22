@@ -66,7 +66,7 @@ fun ProfileScreen() {
             Spacer(modifier = Modifier.height(16.dp))
 
             Text(
-                text = "Benaya Joshua Ichlesia",
+                text = "Benaya Josua Ichlesia",
                 style = MaterialTheme.typography.headlineSmall
             )
 
