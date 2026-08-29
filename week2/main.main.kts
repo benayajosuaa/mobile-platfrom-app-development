@@ -201,15 +201,11 @@ BAGIAN C — COLLECTIONS & OPERASI FUNGSIONAL
 
 // ============================================================
 // _10.kt — Collections: List, Set, Map
-// ============================================================
 
 
 // Immutable (read-only)
-
 val fruits = listOf("Apple", "Banana", "Cherry")
-
 val uniqueIds = setOf(1, 2, 3, 2)      // {1, 2, 3}
-
 val scores = mapOf(
     "Ali" to 90,
     "Budi" to 85
